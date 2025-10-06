@@ -1,4 +1,4 @@
-# 📷 Resim Tanıma (Image Recognition) — Basit Python Projesi
+# 📷 Resim Tanıma (Image Recognition)
 
 Bu proje, **Python** ve **Streamlit** kullanarak bir görsel tanıma uygulaması yapmanıza olanak sağlar. Yüklediğiniz fotoğrafları önceden eğitilmiş **MobileNetV2** modeli ile analiz eder ve **ImageNet** sınıflarından en olası tahminleri görüntüler.
 
